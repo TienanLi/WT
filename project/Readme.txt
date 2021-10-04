@@ -1,8 +1,3 @@
-pull之后文件包含：
-MM_xw_synData_code_0921.jpynb
-data_post_analysis.jpynb
-
-修改后：
 1.Generate_synthetic_data.jpynb
 	Contains only the code that generates synthetic data.
 
